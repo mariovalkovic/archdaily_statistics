@@ -3,4 +3,4 @@ plotly-express==0.4.1
 requests==2.28.1
 pandas==1.5.1
 streamlit==1.15.0
-webbrowser==3.10
+antigravity==0.1
