@@ -4,7 +4,7 @@ import plotly.express as px
 import webbrowser
 
 st.set_page_config(page_title='Archdaily statistics')
-st.header('Archdaily statistics')
+st.title('Archdaily statistics')
 
 col1, col2 = st.columns([1, 1])
 
