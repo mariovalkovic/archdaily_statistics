@@ -5,8 +5,9 @@ import plotly.express as px
 import webbrowser
 
 # Page configuration
-st.set_page_config(page_title='Archdaily statistics')
-st.title('Archdaily statistics')
+st.set_page_config(page_title='Archdaily Statistics')
+st.title('Archdaily Statistics')
+st.markdown('This app is showing various statistics of projects on ArchDaily. Database currently contains 30% of all ArchDaily projects.')
 
 col1, col2 = st.columns([1, 1])
 
